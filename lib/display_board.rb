@@ -34,5 +34,5 @@ def display_board
   print dividers[6]
   print board[7]
   print dividers[7]
-  print board[8]
+  puts board[8]
 end
